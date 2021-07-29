@@ -10,7 +10,7 @@ Installation
 ------------
 First, you will need to install [XAMPP](https://www.apachefriends.org/index.html) following the instructions on their site.
 
-Open Command Prompt, and go to folder where you've installed XAMPP. For ex.`C:\Xampp\htdocs\`
+Open Command Prompt, and go to folder where you've installed XAMPP. For ex. `C:\Xampp\htdocs\`
 
 Then, simply run the following command:
 
