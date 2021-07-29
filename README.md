@@ -24,6 +24,6 @@ Make sure to import .sql file in your MySQL database. For that, open XAMPP, Clic
 
 Create Database and name it as `webfest`.
 
-Import webfest.sql file in that database.
+Import `webfest.sql` file in that database.
 
 Now you can test your app! Just set your redirect_uri to `http://localhost/webfest/` and run a PHP server:
