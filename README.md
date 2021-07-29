@@ -1,5 +1,3 @@
-# WebFest_Quiz_Portal
-
 WEB QUIZ PORTAL PHP & MySQL
 ===========================
 
